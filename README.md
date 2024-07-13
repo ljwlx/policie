@@ -1,25 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2487.4">
-  <style type="text/css">
-    p.p3 {margin: 0.0px 40.0px 0.0px 49.2px; text-indent: 1.8px; font: 36.0px 'Songti SC Light'; color: #0c0c0c; -webkit-text-stroke: #000000}
-    p.p4 {margin: 0.0px 40.0px 0.0px 49.2px; text-indent: 1.8px; font: 36.0px 'PingFang SC'; color: #0e0e0e; -webkit-text-stroke: #000000; min-height: 50.0px}
-    p.p5 {margin: 0.0px 40.0px 0.0px 49.2px; text-indent: 1.8px; font: 32.0px 'Songti SC'; color: #232323; -webkit-text-stroke: #000000}
-    p.p6 {margin: 0.0px 40.0px 0.0px 49.2px; text-indent: 1.8px; font: 32.0px 'Songti SC'; color: #161616; -webkit-text-stroke: #000000}
-    p.p7 {margin: 0.0px 40.0px 0.0px 49.2px; text-indent: 1.8px; font: 32.0px 'Songti SC'; color: #161616; -webkit-text-stroke: #000000; min-height: 45.0px}
-    p.p8 {margin: 0.0px 40.0px 0.0px 49.2px; text-indent: 1.8px; font: 24.0px 'Helvetica Neue'; color: #161616; -webkit-text-stroke: #000000; min-height: 29.0px}
-    p.p11 {margin: 0.0px 40.0px 0.0px 49.2px; text-indent: 1.8px; font: 32.0px 'Helvetica Neue'; color: #232323; -webkit-text-stroke: #000000; min-height: 38.0px}
-    p.p12 {margin: 0.0px 40.0px 0.0px 49.2px; text-indent: 1.8px; font: 32.0px 'Songti SC'; color: #232323; -webkit-text-stroke: #000000; min-height: 45.0px}
-    span.s1 {font-kerning: none}
-    span.s2 {font-kerning: none; color: #161616}
-    span.s3 {font-kerning: none; color: #232323}
-    span.s4 {font-kerning: none; -webkit-text-stroke: 0px #0b0b0b}
-  </style>
 </head>
 <body>
 <h1 style="margin: 0.0px 40.0px 5.0px 49.2px; text-indent: 2.8px; font: 48.0px 'Songti SC'; color: #0c0c0c; -webkit-text-stroke: #000000; min-height: 67.0px"><span class="s1"></span><br></h1>
